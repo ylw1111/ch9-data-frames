@@ -2,11 +2,11 @@
 
 # Create a vector of the number of points the Seahawks scored in the first 4 games
 # of the season (google "Seahawks" for the scores!)
-
+first_four_games <- c(9,12,27,46)
 
 # Create a vector of the number of points the Seahwaks have allowed to be scored
 # against them in each of the first 4 games of the season
-
+against_score <- c(17,9,33,18)
 
 # Combine your two vectors into a dataframe called `games`
 
